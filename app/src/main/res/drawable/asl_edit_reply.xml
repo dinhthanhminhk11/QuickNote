@@ -1,0 +1,23 @@
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit"
+        android:drawable="@drawable/ic_edit"
+        android:state_activated="false"/>
+
+    <item
+        android:id="@+id/reply"
+        android:drawable="@drawable/ic_reply_all"
+        android:state_activated="true"/>
+
+    <transition
+        android:fromId="@id/edit"
+        android:toId="@id/reply"
+        android:drawable="@drawable/avd_edit_to_reply"/>
+
+    <transition
+        android:fromId="@id/reply"
+        android:toId="@id/edit"
+        android:drawable="@drawable/avd_reply_to_edit"/>
+
+</animated-selector>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/asl_bnv_account.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/asl_bnv_dashboard.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/asl_bnv_home.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/asl_bnv_notification.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/asl_edit_reply.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_dashboard.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_edit_to_reply.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_home.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_reply_to_edit.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/ic_edit.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/ic_reply_all.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_account_outlined.xml" value="0.1985" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_dashboard_active.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_dashboard_outlined.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_home_active.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_home_outlined.xml" value="0.1975" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_notification_active.xml" value="0.1985" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/fragment_notification.xml" value="0.2640625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1578125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2095" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
