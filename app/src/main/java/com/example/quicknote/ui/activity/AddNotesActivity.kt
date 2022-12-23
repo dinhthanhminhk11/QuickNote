@@ -3,6 +3,7 @@ package com.example.quicknote.ui.activity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.example.quicknote.R
 import com.example.quicknote.databinding.ActivityAddNotesBinding
 import com.example.quicknote.ui.view.SlideBackLayout
 
@@ -13,12 +14,12 @@ class AddNotesActivity : AppCompatActivity() {
         binding = ActivityAddNotesBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        var slideBackLayout = SlideBackLayout(this)
-        slideBackLayout.bind(this)
-        slideBackLayout.autoFinish(false)
-        slideBackLayout.onSlideBackDone {
-            Toast.makeText(this@AddNotesActivity, it, Toast.LENGTH_SHORT).show()
-            finish()
+        setSupportActionBar(binding.toolbar)
+        binding.toolbar.setNavigationIconTint(R.drawable.ic_round_done_24)
+
+        binding.toolbar.title = ""
+        binding.toolbar.setNavigationOnClickListener{
+
         }
     }
 }
