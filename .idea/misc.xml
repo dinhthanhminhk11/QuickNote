@@ -12,6 +12,7 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_edit_to_reply.xml" value="0.2095" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_home.xml" value="0.1975" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/avd_reply_to_edit.xml" value="0.2095" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/background_right_radius.xml" value="0.2065" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/ic_edit.xml" value="0.2095" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/ic_reply_all.xml" value="0.2095" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_account_outlined.xml" value="0.1985" />
@@ -20,7 +21,8 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_home_active.xml" value="0.1975" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_home_outlined.xml" value="0.1975" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/drawable/vd_notification_active.xml" value="0.1985" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/fragment_add_note.xml" value="0.3605072463768116" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/layout/fragment_notification.xml" value="0.2640625" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/QuickNote/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1578125" />
