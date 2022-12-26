@@ -4,6 +4,7 @@ import android.app.ActivityOptions
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
+import android.view.MenuItem
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
@@ -68,17 +69,14 @@ class MainActivity : AppCompatActivity() {
                     binding.fab.setImageState(intArrayOf(-android.R.attr.state_activated), true)
                     binding.fab.show()
                     binding.bottomAppBar.performShow()
-                    Toast.makeText(this, " text 1", Toast.LENGTH_SHORT).show()
                 }
 
                 R.id.fragment2_6ExpandCollapseDetails -> {
                     binding.fab.setImageState(intArrayOf(android.R.attr.state_activated), true)
-                    Toast.makeText(this, " text 2", Toast.LENGTH_SHORT).show()
 
                 }
 
                 R.id.fragment_add_notes -> {
-                    Toast.makeText(this, " text 3", Toast.LENGTH_SHORT).show()
                 }
             }
         }
@@ -112,4 +110,6 @@ class MainActivity : AppCompatActivity() {
         transaction.replace(R.id.container, fragment)
         transaction.commit()
     }
+
+
 }
